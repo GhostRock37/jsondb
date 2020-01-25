@@ -1,13 +1,4 @@
 {
-    "status": "ok",
-    "feed": {
-        "url": "https://www.cert.ssi.gouv.fr/alerte/feed/",
-        "title": "CERT-FR",
-        "link": "https://www.cert.ssi.gouv.fr/",
-        "author": "",
-        "description": "Centre gouvernemental de veille, d'alerte et de réponse aux attaques informatiques",
-        "image": ""
-    },
     "toto": [
         {
             "title": "CERTFR-2020-ALE-006 : Vulnérabilité dans Microsoft Internet Explorer (20 janvier 2020)",
