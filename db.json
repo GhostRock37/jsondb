@@ -2,7 +2,7 @@
   "posts": [
     {
       "title": "CERTFR-2020-ALE-001 : Multiples vulnérabilités dans les produits de Pulse Secure (09 janvier 2020)",
-      "body": "RÉSUMÉ: Le 24 avril 2019, l'éditeur Pulse Secure a émis un avis de sécurité pour les produits Pulse Connect Secure et Pulse Policy Secure. Le CERT-FR a ensuite publié un bulletin d'actualité portant sur plusieurs produits, dont les produits Pulse Secure (cf. section Documentation). Le CERT-FR a connaissance de cas d'exploitation des vulnérabilités affectant les produits Pulse Secure n'ayant pas appliqué ces mises à jour de sécurité. Le CERT-FR recommande donc fortement l'application du correctif mis à disposition le 24 avril 2019, et ce, dans les plus brefs délais. DOCUMENTATION Bulletin de sécurité Pulse Secure SA44101 du 24 avril 2019 (https://kb.pulsesecure.net/articles/Pulse_Security_Advisories/SA44101) et Bulletin CERT-FR CERTFR-2019-ACT-008 du 28 août 2019 https://www.cert.ssi.gouv.fr/actualite/CERTFR-2019-ACT-008/"
+      "body": "RÉSUMÉ: Le 24 avril 2019, l'éditeur Pulse Secure a émis un avis de sécurité pour les produits Pulse Connect Secure et Pulse Policy Secure. Le CERT-FR a ensuite publié un bulletin d'actualité portant sur plusieurs produits, dont les produits Pulse Secure (cf. section Documentation). Le CERT-FR a connaissance de cas d'exploitation des vulnérabilités affectant les produits Pulse Secure n'ayant pas appliqué ces mises à jour de sécurité. Le CERT-FR recommande donc fortement l'application du correctif mis à disposition le 24 avril 2019, et ce, dans les plus brefs délais."
     },
     {
       "title": "qui est esse",
