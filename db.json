@@ -1,34 +1,16 @@
 {
-    "toto": [
-        {
-            "title": "CERTFR-2020-ALE-006 : Vulnérabilité dans Microsoft Internet Explorer (20 janvier 2020)",
-            "pubDate": "2020-01-20 10:28:22",
-            "link": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2020-ALE-006/",
-            "guid": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2020-ALE-006/",
-            "author": "",
-            "thumbnail": "",
-            "description": "<p>Le 17 janvier 2020, Microsoft a annoncé qu'Internet Explorer est affecté par une vulnérabilité de type 0 jour qui permet à un attaquant d'exécuter du code arbitraire à distance avec les privilèges de l'utilisateur actuel. Cette vulnérabilité, portant l'identifiant CVE-2020-0674, se situe …</p>",
-            "content": "<p>Le 17 janvier 2020, Microsoft a annoncé qu'Internet Explorer est affecté par une vulnérabilité de type 0 jour qui permet à un attaquant d'exécuter du code arbitraire à distance avec les privilèges de l'utilisateur actuel. Cette vulnérabilité, portant l'identifiant CVE-2020-0674, se situe …</p>",
-        },
-        {
-            "title": "CERTFR-2020-ALE-005 : Multiples vulnérabilités dans le serveur de passerelle RDP de Windows (14 janvier 2020)",
-            "pubDate": "2020-01-14 18:20:14",
-            "link": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2020-ALE-005/",
-            "guid": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2020-ALE-005/",
-            "author": "",
-            "thumbnail": "",
-            "description": "<p>Depuis Microsoft Windows Server 2012, la passerelle d'accès distant <em>Microsoft Remote Desktop Gateway</em> (<em>RD Gateway</em>) intègre par défaut de nouvelles fonctionnalités dénommées <em>RemoteFX</em> améliorant la prise en charge de certains contenus multimédias et également …</p>",
-            "content": "<p>Depuis Microsoft Windows Server 2012, la passerelle d'accès distant <em>Microsoft Remote Desktop Gateway</em> (<em>RD Gateway</em>) intègre par défaut de nouvelles fonctionnalités dénommées <em>RemoteFX</em> améliorant la prise en charge de certains contenus multimédias et également …</p>",
-        },
-        {
-            "title": "CERTFR-2019-ALE-012 : Multiples vulnérabilités dans Microsoft Remote Desktop Services (14 août 2019)",
-            "pubDate": "2019-08-14 12:41:26",
-            "link": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2019-ALE-012/",
-            "guid": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2019-ALE-012/",
-            "author": "",
-            "thumbnail": "",
-            "description": "<p>Le 13 août 2019, lors de la publication mensuelle de ses correctifs, Microsoft a corrigé plusieurs vulnérabilités affectant les services de bureau à distance (<em>Remote Desktop Services</em>, RDS). Parmi les failles corrigées, quatre d'entre elles, critiques, permettent une exécution de …</p>",
-            "content": "<p>Le 13 août 2019, lors de la publication mensuelle de ses correctifs, Microsoft a corrigé plusieurs vulnérabilités affectant les services de bureau à distance (<em>Remote Desktop Services</em>, RDS). Parmi les failles corrigées, quatre d'entre elles, critiques, permettent une exécution de …</p>",
-        }
-    ]
+  "posts": [
+    {
+      "title": "RORO sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+    },
+    {
+      "title": "qui est esse",
+      "body": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla"
+    },
+    {
+      "title": "ea molestias quasi exercitationem repellat qui ipsa sit aut",
+      "body": "et iusto sed quo iure\nvoluptatem occaecati omnis eligendi aut ad\nvoluptatem doloribus vel accusantium quis pariatur\nmolestiae porro eius odio et labore et velit aut"
+    }
+  ]
 }
