@@ -9,8 +9,7 @@
             "thumbnail": "",
             "description": "<p>Le 17 janvier 2020, Microsoft a annoncé qu'Internet Explorer est affecté par une vulnérabilité de type 0 jour qui permet à un attaquant d'exécuter du code arbitraire à distance avec les privilèges de l'utilisateur actuel. Cette vulnérabilité, portant l'identifiant CVE-2020-0674, se situe …</p>",
             "content": "<p>Le 17 janvier 2020, Microsoft a annoncé qu'Internet Explorer est affecté par une vulnérabilité de type 0 jour qui permet à un attaquant d'exécuter du code arbitraire à distance avec les privilèges de l'utilisateur actuel. Cette vulnérabilité, portant l'identifiant CVE-2020-0674, se situe …</p>",
-            "enclosure": {},
-            "categories": []
+          
         },
         {
             "title": "CERTFR-2020-ALE-005 : Multiples vulnérabilités dans le serveur de passerelle RDP de Windows (14 janvier 2020)",
@@ -21,8 +20,7 @@
             "thumbnail": "",
             "description": "<p>Depuis Microsoft Windows Server 2012, la passerelle d'accès distant <em>Microsoft Remote Desktop Gateway</em> (<em>RD Gateway</em>) intègre par défaut de nouvelles fonctionnalités dénommées <em>RemoteFX</em> améliorant la prise en charge de certains contenus multimédias et également …</p>",
             "content": "<p>Depuis Microsoft Windows Server 2012, la passerelle d'accès distant <em>Microsoft Remote Desktop Gateway</em> (<em>RD Gateway</em>) intègre par défaut de nouvelles fonctionnalités dénommées <em>RemoteFX</em> améliorant la prise en charge de certains contenus multimédias et également …</p>",
-            "enclosure": {},
-            "categories": []
+            
         },
         {
             "title": "CERTFR-2019-ALE-012 : Multiples vulnérabilités dans Microsoft Remote Desktop Services (14 août 2019)",
@@ -33,8 +31,6 @@
             "thumbnail": "",
             "description": "<p>Le 13 août 2019, lors de la publication mensuelle de ses correctifs, Microsoft a corrigé plusieurs vulnérabilités affectant les services de bureau à distance (<em>Remote Desktop Services</em>, RDS). Parmi les failles corrigées, quatre d'entre elles, critiques, permettent une exécution de …</p>",
             "content": "<p>Le 13 août 2019, lors de la publication mensuelle de ses correctifs, Microsoft a corrigé plusieurs vulnérabilités affectant les services de bureau à distance (<em>Remote Desktop Services</em>, RDS). Parmi les failles corrigées, quatre d'entre elles, critiques, permettent une exécution de …</p>",
-            "enclosure": {},
-            "categories": []
-        }
+            }
     ]
 }
